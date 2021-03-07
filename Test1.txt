@@ -1,3 +1,5 @@
 I am testing push and pull commands.
 
 I am seeing commit IDs.
+
+Now I am learining about reverting a commit.
